@@ -2,9 +2,11 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# # AI Risk Assessment Assistant
 
-Final project for the Building AI course
+# AI Risk Assessment Assistant
+
+An AI project that helps identify and assess risks and provides recommendations to reduce them.
 
 ## Summary
 
